@@ -13,6 +13,9 @@
   "author": "Ganeshk750",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.17.1"
   }
 }
